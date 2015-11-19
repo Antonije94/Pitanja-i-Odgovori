@@ -1,0 +1,73 @@
+ Svako pitanje donosi odredjeni broj poenta. 
+ Koje pitanje koliko donosi bice vam otkriveno jedino ako budete pozvani na razgovor.
+ 
+ 
+ 1. Sta je JSON?
+    JSON ili skraćeno od JavaScript Object Notation je veoma jednostavan format za razmenu podataka. Jednostavan je za parsiranje i potpuno nezavisan od bilo kog programskog jezika.
+ 
+ 2. Sta je javascript object?
+    Objekat u JavaScript jeziku predstavlja kolekciju svojstava koji mogu biti prosti podaci (npr. godina proizvodnje automobila, broj točkova na vozilu), 
+ drugi objekti (npr. Klijent, Vrsta klijenta itd…) ili funkcije.
+ 
+ 3. Koja javascript funkcija je ekvivalentna jQuery bind() funkciji ?
+    on('click',...
+ 
+ 4. Sta je anonimna funkcija u javascript-u?
+    Funkcija bez imena.
+ 
+ 5. Razlika izmedju Navodnika(") i Apostrofa(') u PHP-u?
+    ' koristi se kod obicnog texta, " koristi se kod promenljivih npr.  echo "Zdravo $username";
+ 
+ 6. Razlika izmedju echo i print() u PHP-u?
+    Echo nema povratnu vrednost,print() ima vrednost 1 i moze se koristiti u izrazima i sl.
+	
+ 7. U cemu je razlika izmedju staticne i obicne funkcije?
+    You use static when you want to use a method / variable that is not tied to an instance.
+ Staticna funkcija koristimo kada zelimo da korstimo metod/promenljivu koja nije povezana sa instancom.
+ 
+ 8. Koja je razlika izmedju private i protected varijable?
+    Private varijable su vidljive samo klasi kojoj pripadaju.
+ Protected varijable su vidljive samo klasi kojoj pripadaju i bilo kojoj podklasi.
+ 
+ 9. U cemu je razlika izmedju apstraktne klase i interfejsa?
+    Apstraktna  klasa i interfejs se koriste za postizanje apstrakcije gde možemo deklarisati  apstraktne metode. 
+ Apstraktna klasa i interfejs se ne mogu instancirati.
+ Ukratko, apstraktna klasa postiže delimičnu apstrakciju (0 do 100%) dok interfejs postiže  punu apstrakciju (100%).
+ 
+ 10. Sta je LEFT JOIN u mysql-u?
+     LEFT JOIN se koristi za uzimanje zapisa iz prve tablice i samo onih
+zapisa iz druge tablice koji su jednaki zapisima iz prve tablice.
+ 
+ 11. Sta prvo uradite kada ukljucite racunar?
+     Sto se tice paljenja racunara,to u mnogome zavisi od raspolozenja,ali u najvecem broju slucajeva uz ispijanje kafe otvorim par portala,procitam novosti,pogledam par stranica koje pratim na fejsbuku i procitam E-Mail postu.
+ 
+ 12. Koliko vremena dnevno provodite za racunarom?
+     Zavisi od situacije , ako radim na nekom nekom projektu desi se i da budem 12 sati , sa pauzama.
+ 
+ 13. Koji je najzanimljiviji projekat koji ste pravili do sada?
+     Dizajniranje logo-a za employera preko sajta "freelancer"
+ 
+ 14. Koji je odgovor na ultimativno pitanje zivota, univerzuma i svega?
+     Odgovor na navedeno filozofsko pitanje ne postoji,sto nama daje slobodu da ga odgovorimo sa ciljem da obezbedimo unturasnji mir.Smatram da recimo smisao zivota takodje zavisi od nase perspektive zivota tj kako mi vidimo zivot,i da na to pitanje ne postoji 1 direktan odgovor,i nijedan odgovor nije kompletno tacan.Takodje mislim da u takvim pitanjima u mnogome ljudima pomazu umetnost posvecenost i vera koji im pomazu da nadju odgovore na navedena pitanja.
+ 
+ 15. Koliko sto i cetiri ovce imaju nogu ?
+     Posto sastavni veznik I upucuje na to da se radi o predmetu koji ima 4 figurativno receno noge(Zavisi da li nogu definisemo kao deo tela)i 4 ovce koje imaju po 4 noge odgovor bi bio 4+4*4=20(Pod uslovom da vazi da noge od stola kao predmeta sabiramo sa nogama od ovce)
+ 
+ 16. Zasto vas zanima web development?
+     To me ispunjava i vidim sebe u tome.
+ 
+ 17. Sta smatrate za kvalitetan provod?
+     Kvalitetan provod vidim kao kvalitetno vreme provedeno sa mojim prijateljima,bilo to izlazak u klub,kafic ili rostilj,ali u sustini vreme i mesto nije bitno,bitni su ljudi koji ''prave'' taj provod kvalitetnim.
+ 
+ 18. Ako biste bili jednaki kao neki drugi kandidat, zasto bas Vi treba da budete izabrani a ne drugi kandidat?
+     Smatram sebe za skromnu osobju,jedino sto bih izdvojio je zalaganje i timski duh.
+	 
+ 19. Napisite jedan programski zadatak.
+     
+ 
+ 20. Cime se bavi nasa kompanija?
+     Web developmentom , aplikacije za mobilne i tablet uredjaje , video igrice 
+
+21. Sa koliko godina ste prvi put programirali nesto?
+    Sa 17 godina , bio je to kolektivni projekat za sajt u vezi igrice "Counter Strike 1.6" 
+ 
